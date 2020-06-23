@@ -10,7 +10,7 @@ Add the Maven repository in the build.gradle file for the Android Studio applica
                 google()
                 jcenter()
                 maven {
-                    url "https://github.com/accessbell/AndroidSDK/raw/master/releases"
+                    url "https://github.com/accessbell/AccessBellAndroidSDK/raw/master/releases"
                 }
             }
         }
